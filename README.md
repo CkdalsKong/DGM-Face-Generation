@@ -157,6 +157,5 @@ CUDA_VISIBLE_DEVICES=0,1 python stylegan3/train.py \
 
 The final checkpoint (`stylegan3_aug_kimg163.pkl`, 213 MB) is available in the [Releases](../../releases) tab.
 
-- SHA256: *(add after upload)*
 - Seeds used: 0–999
 - Truncation: ψ = 1.0
